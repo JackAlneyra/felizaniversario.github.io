@@ -17,7 +17,7 @@ a {
 
 header {
   display: flex;
-  background-color: var(--dark-color);
+  background-color: transparent;
   align-items: center;
   justify-content: space-between;
   text-decoration: none;
