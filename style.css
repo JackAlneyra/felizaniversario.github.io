@@ -24,10 +24,15 @@ section img {
   border-radius: 50%; 
 }
 
+section:hover{
+  transform: scale(1.3);
+  transition: 4s;
+}
+
 a {
   margin: 0px auto;
   text-decoration: none;
-  color: rgb(255, 98, 0);
+  color: rgba(255, 187, 0, 0.553);
   text-align: center;
   font-size: clamp(18px, 4vw + 1rem, 48px);
 
